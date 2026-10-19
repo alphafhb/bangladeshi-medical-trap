@@ -1,0 +1,14 @@
+# Git ignore file for bangladeshi-medical-trap
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large compiled files exceeding GitHub 100MB limit
+*.pdf
+All_Medical_Reports_Tonni*.pdf
