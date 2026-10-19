@@ -3,6 +3,7 @@
 **Patient Legal Name:** Ms. Sanzida Khatun (Tonni)  
 **Aliases in Records:** Sanjida / Sanzida / Tonni / Moss. Sanjida  
 **Age:** 26–29 Years (DOB ~1997; BBA Student, Varendra University, Rajshahi)  
+**Current Body Weight:** 24 kg (Severe chronic neurogenic cachexia & disuse atrophy)  
 **Sex:** Female  
 **Primary Facilities:**  
 - National Institute of Neurosciences & Hospital (NINS), Dhaka  
@@ -32,7 +33,7 @@ Over the succeeding three years (2023–2026), the patient's course has been mar
 4. **Secondary Immobility & Catheter-Related Complications:**
    - **Bedsore / Sacral Pressure Ulcer:** Grade-II sacral ulcer managed by Plastic Surgery (Dr. Afroza Nazneen).
    - **Urological:** Chronic indwelling Foley catheterization resulting in chronic cystitis, recurrent UTIs (20–25 pus cells/HPF), and bilateral mild hydronephrosis ($L > R$) documented on ultrasound in October 2026.
-   - **Musculoskeletal:** Bilateral foot drop and wrist drop managed with orthoses, splints, and ongoing physiotherapy.
+   - **Musculoskeletal & Nutritional:** Bilateral foot drop and wrist drop managed with orthoses, splints, and ongoing physiotherapy; severe chronic cachexia with total body weight reduced to 24 kg.
 5. **Latest Diagnostic Status (Late 2026):**
    - **Digital EEG (Sept 2026, Popular Diagnostic / Manipal Hospital Ref):** Normal awake EEG without epileptiform paroxysms.
    - **MRI Brain (Oct 2026):** Advanced ex-vacuo ventricular dilatation, prominent cerebral sulci, and bilateral fronto-parietal crescentic extra-axial fluid collections (chronic subdural hygromas).
