@@ -19,3 +19,7 @@ convert_heic.py
 run_ocr.swift
 ocr_extracted_text_v2.json
 reports_catalog_v2.json
+
+# Video files
+videos/
+*.mp4

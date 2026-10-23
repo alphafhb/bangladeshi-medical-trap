@@ -99,13 +99,13 @@
 
 গত ৩ বছর ধরে তন্নী সম্পূর্ণ অবশ ও বাকরুদ্ধ অবস্থায় বিছানায় পড়ে আছেন। মাথায় ভিপি শান্ট, গলায় ট্রাকিয়োস্টোমি পাইপ ও ক্যাথেটার নিয়ে বেঁচে আছেন। তাঁর শরীরের ওজন ৫০ কেজি থেকে শুকিয়ে মাত্র ২৪ কেজিতে নেমে এসেছে (শরীরের অর্ধেকের বেশি শরীর ধ্বংস)। তন্নীর চিকিৎসায় প্রতি মাসে প্রায় ৬৭,০০০ টাকা খরচ বহন করে বৃদ্ধ পিতা আজ সম্পূর্ণ নিঃস্ব। দুর্ঘটনার পর তন্নীর স্বামী মোঃ শাহনেওয়াজ (সানি)—যিনি মাদারল্যান্ডের ভর্তি ফর্মে অস্পষ্ট স্বাক্ষরে লিপিবদ্ধ ছিলেন—তন্নী ও তার নবজাতক ৩ বছরের শিশুটিকে ফেলে অন্যত্র বিবাহ করে পরিবার ত্যাগ করেছে। 
 
-এমতাবস্থায়, অত্র ইমেইলের সাথে ৪ পৃষ্ঠার পূর্ণাঙ্গ আইনি কেস ডকেট ও পিটিশন সংযুক্ত করে আপনার নিকট বিনীত প্রার্থনা:
+এমতাবস্থায়, অত্র ইমেইলের সাথে ৫ পৃষ্ঠার পূর্ণাঙ্গ আইনি কেস ডকেট ও সচিত্র পিটিশন সংযুক্ত করে আপনার নিকট বিনীত প্রার্থনা:
 ১. বিএমডিসি আইন ২০১০-এর ২৩ ধারা অনুযায়ী ডা. ফাতেমা সিদ্দিকা (BMDC Reg No: A-25595) এবং ডা. আর. এ. জালালের প্র্যাকটিস লাইসেন্স স্থায়ীভাবে বাতিল করা হোক;
 ২. দ্য মেডিকেল প্র্যাকটিস অ্যান্ড প্রাইভেট ক্লিনিকস অধ্যাদেশ ১৯৮২ মোতাবেক আইসিইউ ছাড়া মেজর সার্জারি পরিচালনা করে রোগীকে পঙ্গু করার দায়ে মাদারল্যান্ড হাসপাতালের লাইসেন্স বাতিল ও ওটি অবিলম্বে সিলগালা করা হোক;
 ৩. ভিকটিমের আজীবন চিকিৎসা ও শিশুর আজীবন ভরণপোষণের জন্য আইন অনুযায়ী দায়ী ডাক্তার ও ক্লিনিকের নিকট থেকে আইনানুগ আর্থিক ক্ষতিপূরণ ও পুনর্বাসনের ব্যবস্থা নেওয়া হোক।
 
 সংযুক্তিসমূহ (Attachments / ক্লিকযোগ্য প্রমাণ লিংক):
-১. পূর্ণাঙ্গ আইনি পিটিশন ও কেস ডকেট: `DGHS_BMDC_Complaint_Notary.pdf`
+১. পূর্ণাঙ্গ আইনি পিটিশন, হলফনামা ও সচিত্র প্রমাণ ডকেট: `DGHS_BMDC_Complaint_Notary.pdf` (মোট ৫ পৃষ্ঠা)
 ২. বিসিএস সুস্থতার সরকারি প্রমাণ: [IMG_0048.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_0048.jpg)
 ৩. ১০০% ফাঁকা প্রি-অ্যানেস্থেটিক শিট: [IMG_9906.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_9906.jpg)
 ৪. ওটিতে পালমোনারি এডিমার মেডিসিন চার্ট: [IMG_9908.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_9908.jpg)
@@ -114,6 +114,8 @@
 ৭. রামেক রেডিওলজি প্রধানের প্রত্যয়ন: [IMG_9994.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_9994.jpg)
 ৮. NINS ঢাকা ভিপি শান্ট রিপোর্ট: [IMG_9970.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_9970.jpg)
 ৯. পুষ্টিবিদ ডা. কুমকুম ইয়াসমিনের প্রেসক্রিপশন: [IMG_9778.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/converted_jpg/IMG_9778.jpg)
+১০. সংযোজনী ‘ক’ - সুস্থ স্বাভাবিক অবস্থা (৫০ কেজি): [Tonni_Before_Disaster_Healthy_50kg.png](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/Patien-Before-After-Images/Tonni_Before_Disaster_Healthy_50kg.png)
+১১. সংযোজনী ‘ক’ - বর্তমান পঙ্গু ও ক্যাকেক্সিয়া অবস্থা (২৪ কেজি): [Tonni_After_Disaster_Paralyzed_24kg.jpg](https://github.com/alphafhb/bangladeshi-medical-trap/blob/main/Patien-Before-After-Images/Tonni_After_Disaster_Paralyzed_24kg.jpg)
 
 সমগ্র ১৬৯টি মেডিকেল রেকর্ডের উন্মুক্ত ডিজিটাল আর্কাইভ:
 https://github.com/alphafhb/bangladeshi-medical-trap
