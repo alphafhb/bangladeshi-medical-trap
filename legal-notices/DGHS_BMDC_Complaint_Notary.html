@@ -2,7 +2,7 @@
 <html lang="bn">
 <head>
 <meta charset="utf-8">
-<title>হাইকোর্ট কেস ডকেট ও সংবিধিবদ্ধ অভিযোগপত্র - মোসাঃ সানজিদা খাতুন (তন্নী)</title>
+<title>আইনি কেস ডকেট ও আনুষ্ঠানিক পিটিশন - মোসাঃ সানজিদা খাতুন (তন্নী)</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;500;600;700&display=swap');
 
@@ -18,16 +18,16 @@
 body {
   font-family: 'Noto Serif Bengali', 'Bangla Sangam MN', 'Bangla MN', serif;
   font-size: 12px;
-  line-height: 1.48;
-  color: #1a1a1a;
+  line-height: 1.5;
+  color: #111111;
   background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
 
 .page-container {
-  border: 2px solid #5a1010;
-  padding: 14px 18px;
+  border: 1.5px solid #222222;
+  padding: 16px 20px;
   position: relative;
   background-color: #ffffff;
   height: 275mm;
@@ -39,54 +39,35 @@ body {
   page-break-after: avoid;
 }
 
-.page-container::before {
-  content: "";
-  position: absolute;
-  top: 3px; left: 3px; right: 3px; bottom: 3px;
-  border: 1px solid #c59b27;
-  pointer-events: none;
-}
-
-/* Header styling */
-.header-top {
+/* Formal Legal Header (No fake emblems) */
+.legal-header {
   text-align: center;
-  border-bottom: 2px solid #5a1010;
-  padding-bottom: 6px;
-  margin-bottom: 8px;
+  border-bottom: 2px solid #222222;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
 }
 
-.emblem-svg {
-  width: 44px;
-  height: 44px;
-  margin: 0 auto 2px auto;
-  display: block;
-}
-
-.gov-title {
-  font-size: 15px;
+.legal-court-title {
+  font-size: 13.5px;
   font-weight: 700;
-  color: #5a1010;
+  text-transform: uppercase;
   letter-spacing: 0.5px;
+  color: #111111;
   margin: 0;
 }
 
-.dept-sub {
-  font-size: 11.5px;
-  font-weight: 600;
-  color: #1f3a52;
-  margin: 1px 0 0 0;
+.legal-case-type {
+  font-size: 15px;
+  font-weight: 700;
+  color: #5a1010;
+  margin: 3px 0 2px 0;
 }
 
-.petition-badge {
-  display: inline-block;
-  background: #5a1010;
-  color: #ffffff;
+.legal-jurisdiction {
   font-size: 11px;
-  font-weight: 700;
-  padding: 2px 12px;
-  border-radius: 3px;
-  margin-top: 3px;
-  letter-spacing: 0.5px;
+  font-weight: 600;
+  color: #333333;
+  margin: 0;
 }
 
 /* Docket Meta Box */
@@ -98,29 +79,29 @@ body {
 }
 
 .docket-table td {
-  border: 1px solid #d3c4a5;
-  padding: 4px 7px;
+  border: 1px solid #777777;
+  padding: 4px 8px;
   vertical-align: top;
-  background-color: #faf8f5;
+  background-color: #fcfcfc;
 }
 
 .docket-left {
-  width: 55%;
+  width: 58%;
 }
 
 .docket-right {
-  width: 45%;
+  width: 42%;
   text-align: right;
 }
 
-/* Parties section */
+/* Parties section (Cause Title) */
 .parties-box {
-  background: #fdfbf7;
-  border: 1px solid #c59b27;
-  padding: 6px 10px;
+  background: #ffffff;
+  border: 1px solid #333333;
+  padding: 8px 12px;
   margin-bottom: 8px;
   font-size: 11.5px;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .parties-table {
@@ -137,43 +118,45 @@ body {
   text-align: center;
   font-weight: 700;
   color: #5a1010;
-  padding: 2px 0;
-  font-size: 11px;
+  padding: 3px 0;
+  font-size: 12px;
 }
 
 /* Recipients */
 .recipients-block {
-  margin-bottom: 7px;
+  margin-bottom: 8px;
   font-size: 11.5px;
-  line-height: 1.35;
+  line-height: 1.4;
+  border-bottom: 1px dashed #888888;
+  padding-bottom: 6px;
 }
 
 .recipients-title {
   font-weight: 700;
-  color: #5a1010;
+  color: #111111;
   text-decoration: underline;
 }
 
 /* Subject Box */
 .subject-box {
-  background-color: #f7f1e5;
+  background-color: #f9f9f9;
   border-left: 4px solid #5a1010;
-  border-right: 1px solid #d3c4a5;
-  border-top: 1px solid #d3c4a5;
-  border-bottom: 1px solid #d3c4a5;
-  padding: 5px 8px;
+  border-right: 1px solid #888888;
+  border-top: 1px solid #888888;
+  border-bottom: 1px solid #888888;
+  padding: 6px 9px;
   margin-bottom: 8px;
   font-weight: 600;
   font-size: 11.5px;
-  line-height: 1.4;
-  color: #222222;
+  line-height: 1.45;
+  color: #111111;
 }
 
 .section-head {
   font-size: 12.5px;
   font-weight: 700;
   color: #5a1010;
-  border-bottom: 1px solid #e0d0b8;
+  border-bottom: 1px solid #cccccc;
   padding-bottom: 2px;
   margin-top: 8px;
   margin-bottom: 4px;
@@ -185,7 +168,7 @@ p {
 }
 
 ul {
-  margin: 2px 0 5px 15px;
+  margin: 2px 0 5px 16px;
   padding: 0;
 }
 
@@ -202,26 +185,29 @@ li {
 }
 
 .table-custom th, .table-custom td {
-  border: 1px solid #bcaba0;
+  border: 1px solid #666666;
   padding: 4px 6px;
   text-align: left;
 }
 
 .table-custom th {
-  background-color: #5a1010;
-  color: #ffffff;
-  font-weight: 600;
+  background-color: #f0f0f0;
+  color: #111111;
+  font-weight: 700;
 }
 
 .table-custom tr:nth-child(even) {
-  background-color: #faf5ed;
+  background-color: #fafafa;
 }
 
 /* Question Callout */
 .question-item {
-  background-color: #fcf9f2;
+  background-color: #fdfdfd;
   border-left: 3px solid #5a1010;
-  padding: 4px 7px;
+  border-top: 1px solid #e0e0e0;
+  border-right: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 4px 8px;
   margin-bottom: 5px;
   font-size: 11.5px;
   line-height: 1.4;
@@ -235,8 +221,8 @@ li {
 
 /* Prayers */
 .prayer-box {
-  background: #fbf7f0;
-  border: 1px dashed #5a1010;
+  background: #fafafa;
+  border: 1px dashed #333333;
   padding: 6px 10px;
   margin-top: 6px;
   margin-bottom: 6px;
@@ -255,8 +241,8 @@ li {
 
 /* Verification & Affidavit Clause */
 .affidavit-clause {
-  background-color: #f7f3ec;
-  border: 1px solid #c59b27;
+  background-color: #ffffff;
+  border: 1px solid #333333;
   padding: 8px 12px;
   margin-top: 6px;
   margin-bottom: 10px;
@@ -267,7 +253,7 @@ li {
   text-align: center;
   font-weight: 700;
   font-size: 12.5px;
-  color: #5a1010;
+  color: #111111;
   text-decoration: underline;
   margin-bottom: 4px;
 }
@@ -276,7 +262,7 @@ li {
 .sig-table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 .sig-table td {
@@ -284,18 +270,17 @@ li {
   padding: 5px;
 }
 
-.notary-seal-box {
-  border: 2px dashed #999;
+.notary-seal-placeholder {
+  border: 1.5px dashed #666666;
   width: 110px;
   height: 110px;
-  border-radius: 50%;
   margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 10px;
-  color: #555;
+  font-size: 9.5px;
+  color: #555555;
   font-weight: 600;
   line-height: 1.25;
 }
@@ -305,14 +290,14 @@ li {
   bottom: 6px;
   right: 18px;
   font-size: 9.5px;
-  color: #888;
+  color: #666666;
 }
 
 /* Roadmap styles for Page 5 */
 .roadmap-card {
-  background: #fdfbf7;
-  border: 1px solid #c59b27;
-  border-left: 4px solid #5a1010;
+  background: #ffffff;
+  border: 1px solid #888888;
+  border-left: 4px solid #1f3a52;
   padding: 6px 10px;
   margin-bottom: 6px;
 }
@@ -320,12 +305,12 @@ li {
 .roadmap-card h4 {
   margin: 0 0 3px 0;
   font-size: 12px;
-  color: #5a1010;
+  color: #1f3a52;
 }
 
 .rule-box {
-  background: #f4ede1;
-  border: 1px solid #d3c4a5;
+  background: #fcfcfc;
+  border: 1px solid #555555;
   padding: 6px 10px;
   margin: 6px 0;
   font-size: 11px;
@@ -334,40 +319,28 @@ li {
 </head>
 <body>
 
-<!-- ================= PAGE 1: CASE DOCKET, PARTIES & BASELINE ================= -->
+<!-- ================= PAGE 1: FORMAL LEGAL CAUSE TITLE & PETITION INTRO ================= -->
 <div class="page-container">
   
-  <div class="header-top">
-    <!-- Bangladesh Government Crest SVG -->
-    <svg class="emblem-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="50" cy="50" r="46" fill="#fdfbf7" stroke="#5a1010" stroke-width="2"/>
-      <circle cx="50" cy="50" r="41" fill="none" stroke="#c59b27" stroke-width="1.2"/>
-      <path d="M50 25 C45 35 40 45 40 54 C40 60 45 64 50 64 C55 64 60 60 60 54 C60 45 55 35 50 25 Z" fill="#5a1010"/>
-      <path d="M50 32 C42 42 32 48 30 55 C28 62 34 65 40 64 C42 58 46 50 50 42 Z" fill="#7a2020"/>
-      <path d="M50 32 C58 42 68 48 70 55 C72 62 66 65 60 64 C58 58 54 50 50 42 Z" fill="#7a2020"/>
-      <path d="M30 68 Q40 64 50 68 Q60 72 70 68" stroke="#1f3a52" stroke-width="2" fill="none"/>
-      <path d="M26 73 Q38 69 50 73 Q62 77 74 73" stroke="#1f3a52" stroke-width="1.5" fill="none"/>
-      <circle cx="28" cy="35" r="2.5" fill="#c59b27"/>
-      <circle cx="34" cy="27" r="2.5" fill="#c59b27"/>
-      <circle cx="66" cy="27" r="2.5" fill="#c59b27"/>
-      <circle cx="72" cy="35" r="2.5" fill="#c59b27"/>
-    </svg>
-    <div class="gov-title">গণপ্রজাতন্ত্রী বাংলাদেশ সরকার</div>
-    <div class="dept-sub">স্বাস্থ্য সেবা বিভাগ | স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয় | বিএমডিসি ও বাংলাদেশ সুপ্রিম কোর্ট রিট এখতিয়ার</div>
-    <div class="petition-badge">সংবিধিবদ্ধ প্রশাসনিক অভিযোগপত্র ও আইনি কেস ফাইল ডকেট (LEGAL BRIEF & STATUTORY PETITION)</div>
+  <div class="legal-header">
+    <div class="legal-court-title">IN THE SUPREME COURT OF BANGLADESH & STATUTORY REGULATORY BODIES</div>
+    <div class="legal-case-type">প্রশাসনিক অভিযোগপত্র, লিগ্যাল নোটিশ ও রিট পিটিশন কেস মেমোরেন্ডাম</div>
+    <div class="legal-jurisdiction">
+      [ স্বাস্থ্য অধিদপ্তর (DGHS), বিএমডিসি (BMDC), স্বাস্থ্য মন্ত্রণালয় ও সুপ্রিম কোর্টের অনুচ্ছেদ ১০২ (রিট) এখতিয়ার ]
+    </div>
   </div>
 
   <table class="docket-table">
     <tr>
       <td class="docket-left">
-        <strong>কেস ডকেট ট্র্যাকিং নং:</strong> HC-DGHS-BMDC/RAJ/2026/01<br>
-        <strong>আইনগত ধারা:</strong> বিএমডিসি আইন ২০১০ (২৩ ধারা), ক্লিনিক অধ্যাদেশ ১৯৮২, ও সংবিধানের অনুচ্ছেদ ১০২ (রিট)<br>
-        <strong>তারিখ:</strong> .................................... | <strong>জেলা:</strong> নাটোর ও রাজশাহী
+        <strong>কেস রেফারেন্স নং:</strong> PETITION-DGHS-BMDC/RAJ/2026/01<br>
+        <strong>আইনগত ধারা:</strong> বিএমডিসি আইন ২০১০ (২৩ ধারা), প্রাইভেট ক্লিনিক অধ্যাদেশ ১৯৮২, ও সংবিধানের অনুচ্ছেদ ১০২<br>
+        <strong>তারিখ:</strong> .................................... | <strong>জেলা:</strong> নাটোর ও রাজশাহী, বাংলাদেশ
       </td>
       <td class="docket-right">
-        <strong>ক্ষতিপূরণ দাবি:</strong> ৫,৮১,০০,০০০/- (পাঁচ কোটি একাশি লাখ টাকা)<br>
-        <strong>আবেদনের ধরন:</strong> চিকিৎসাগত ফৌজদারি অবহেলা ও লাইসেন্স বাতিল<br>
-        <strong>দরখাস্তকারী:</strong> পিতা (একক অভিভাবক ও নেক্সট ফ্রেন্ড)
+        <strong>মোট আর্থিক ক্ষতিপূরণ দাবি:</strong> ৫,৮১,০০,০০০/- টাকা<br>
+        <strong>বিষয়:</strong> চিকিৎসাগত ফৌজদারি অবহেলা ও লাইসেন্স বাতিল<br>
+        <strong>দরখাস্তকারী:</strong> পিতা (ভিকটিমের একমাত্র আইনানুগ অভিভাবক)
       </td>
     </tr>
   </table>
@@ -375,14 +348,14 @@ li {
   <div class="parties-box">
     <table class="parties-table">
       <tr>
-        <td style="width: 76%;">
-          <strong>দরখাস্তকারী / সংক্ষুব্ধ পক্ষ:</strong><br>
+        <td style="width: 78%;">
+          <strong>দরখাস্তকারী / সংক্ষুব্ধ পিটিশনার:</strong><br>
           <strong>মোঃ শাকিল খান</strong>, বয়স: আনুমানিক ৫৫ বছর, পিতা: <strong>মৃতঃ আব্দুস সামাদ খান</strong>, মাতা: <strong>মোছাঃ হাসিনা বেগম</strong><br>
           পক্ষে: ভিকটিম কন্যা <strong>মোসাঃ সানজিদা খাতুন (তন্নী)</strong>, বয়স: ২৯ বছর (মাতা: মোছাঃ শেফালি খানম)<br>
-          <em>[বিশেষ নোট: সিজারের সময় স্বামী মোঃ শাহনেওয়াজ (সানি) ক্লিনিকে উপস্থিত থাকলেও দুর্ঘটনার পর তন্নী ও তার নবজাতক সন্তানকে ফেলে অন্যত্র বিবাহ করে পরিবার ত্যাগ করায় একমাত্র পিতা মোঃ শাকিল খান তন্নীর আজীবন চিকিৎসা ও আইনানুগ অভিভাবক]</em><br>
+          <em>[আইনি নোট: সিজারের সময় স্বামী মোঃ শাহনেওয়াজ (সানি) উপস্থিত থাকলেও দুর্ঘটনার পর তন্নী ও তার নবজাতক সন্তানকে ফেলে অন্যত্র বিবাহ করে পরিবার ত্যাগ করায় একমাত্র পিতা মোঃ শাকিল খান তন্নীর আজীবন চিকিৎসা, ভরণপোষণ ও একমাত্র আইনানুগ অভিভাবক ও নেক্সট ফ্রেন্ড]</em><br>
           স্থায়ী ঠিকানা: গ্রাম: কালীগঞ্জ, ডাকঘর: ডাঙ্গাপাড়া (পোস্ট কোড: ৬৪০০), উপজেলা: নলডাঙ্গা, জেলা: নাটোর।
         </td>
-        <td style="width: 24%; text-align: right; font-weight: 700; color: #5a1010; vertical-align: middle;">
+        <td style="width: 22%; text-align: right; font-weight: 700; color: #5a1010; vertical-align: middle;">
           ... দরখাস্তকারী / পিটিশনার
         </td>
       </tr>
@@ -391,22 +364,23 @@ li {
       </tr>
       <tr>
         <td>
-          <strong>অভিযুক্ত বিবাদীগণ:</strong><br>
+          <strong>অভিযুক্ত বিবাদীগণ / রেসপনডেন্টস:</strong><br>
           ১. <strong>সহযোগী অধ্যাপক ডা. ফাতেমা সিদ্দিকা</strong> (BMDC Reg No: A-25595), কনসালট্যান্ট সার্জন ও গাইনী বিশেষজ্ঞ, রাজশাহী।<br>
           ২. <strong>ডা. আর. এ. জালাল</strong>, কনসালট্যান্ট অ্যানেস্থেটিস্ট (DA), রাজশাহী।<br>
-          ৩. <strong>ব্যবস্থাপনা পরিচালক / লাইসেন্সধারী কর্তৃপক্ষ</strong>, মাদারল্যান্ড ইনফার্টিলিটি সেন্টার ও হাসপাতাল, ইব্রাহিম প্লাজা, লক্ষ্মীপুর, রাজশাহী।
+          ৩. <strong>ম্যানেজিং ডিরেক্টর / লাইসেন্সধারী কর্তৃপক্ষ</strong>, মাদারল্যান্ড ইনফার্টিলিটি সেন্টার ও হাসপাতাল, লক্ষ্মীপুর, রাজশাহী।<br>
+          ৪. <strong>সচিব</strong>, স্বাস্থ্য সেবা বিভাগ, স্বাস্থ্য মন্ত্রণালয় | ৫. <strong>মহাপরিচালক</strong>, ডিজিএইচএস | ৬. <strong>সভাপতি/রেজিস্ট্রার</strong>, বিএমডিসি।
         </td>
         <td style="text-align: right; font-weight: 700; color: #5a1010; vertical-align: middle;">
-          ... অভিযুক্ত বিবাদীগণ
+          ... বিবাদীগণ / Respondents
         </td>
       </tr>
     </table>
   </div>
 
   <div class="recipients-block">
-    <span class="recipients-title">বরাবর:</span><br>
-    ১. <strong>মহাপরিচালক</strong>, স্বাস্থ্য অধিদপ্তর (DGHS), মহাখালী, ঢাকা। | ২. <strong>রেজিস্ট্রার / সভাপতি</strong>, বিএমডিসি (BMDC), বিজয় নগর, ঢাকা।<br>
-    ৩. <strong>সচিব</strong>, স্বাস্থ্য সেবা বিভাগ, স্বাস্থ্য মন্ত্রণালয়, সচিবালয়, ঢাকা। | ৪. <strong>সিভিল সার্জন</strong>, রাজশাহী। | ৫. <strong>হাইকোর্ট ডিভিশন</strong>, সুপ্রিম কোর্ট।
+    <span class="recipients-title">দাখিলের ঠিকানা ও কর্তৃপক্ষ:</span><br>
+    ১. মহাপরিচালক, স্বাস্থ্য অধিদপ্তর (DGHS), মহাখালী, ঢাকা। | ২. রেজিস্ট্রার / সভাপতি, বাংলাদেশ মেডিকেল অ্যান্ড ডেন্টাল কাউন্সিল (BMDC), ঢাকা।<br>
+    ৩. সচিব, স্বাস্থ্য সেবা বিভাগ, স্বাস্থ্য মন্ত্রণালয়, বাংলাদেশ সচিবালয়, ঢাকা। | ৪. সিভিল সার্জন, রাজশাহী। | ৫. হাইকোর্ট ডিভিশন, বাংলাদেশ সুপ্রিম কোর্ট।
   </div>
 
   <div class="subject-box">
@@ -540,7 +514,7 @@ li {
         <td><strong>৬. বৃদ্ধ বাবা-মায়ের মানসিক যন্ত্রণা ও পরিবার ধ্বংসের ক্ষতিপূরণ:</strong> দিনরাত সেবা দেওয়া বৃদ্ধ পিতা-মাতার অপরিসীম ক্ষতি।</td>
         <td style="text-align: right;"><strong>৫০,০০,০০০/-</strong></td>
       </tr>
-      <tr style="background-color: #f7e6d0; font-weight: 700;">
+      <tr style="background-color: #f2f2f2; font-weight: 700;">
         <td><strong>সর্বমোট ক্ষতিপূরণ দাবি (Five Crore Eighty-One Lakh Taka Only)</strong></td>
         <td style="text-align: right; color: #5a1010; font-size: 12px;"><strong>৫,৮১,০০,০০০/-</strong></td>
       </tr>
@@ -590,14 +564,12 @@ li {
         <strong>বিজ্ঞ আইনজীবীর স্বাক্ষর ও সিল</strong><br>
         নাম: .............................................<br>
         বার সদস্য নং: .................................<br>
-        কোর্ট: বাংলাদেশ সুপ্রিম কোর্ট / জেলা জজ কোর্ট
+        বাংলাদেশ সুপ্রিম কোর্ট / জেলা জজ কোর্ট
       </td>
       <td style="width: 30%; text-align: center;">
-        <div class="notary-seal-box">
-          NOTARY PUBLIC<br>
-          SEAL & STAMP<br>
-          BANGLADESH<br>
-          [গোল সিলমোহর]
+        <div class="notary-seal-placeholder">
+          [ নোটারি পাবলিকের সিলমোহর<br>& রাজস্ব স্ট্যাম্পের স্থান ]<br><br>
+          NOTARY SEAL & STAMP
         </div>
         <div style="font-size: 10px; margin-top: 4px; color: #555;">
           তারিখ: ...............................
@@ -613,7 +585,7 @@ li {
       </td>
     </tr>
     <tr>
-      <td colspan="3" style="border-top: 1px solid #c59b27; padding-top: 8px; margin-top: 8px; text-align: center; font-size: 10.5px; color: #444;">
+      <td colspan="3" style="border-top: 1px solid #777777; padding-top: 8px; margin-top: 8px; text-align: center; font-size: 10.5px; color: #333333;">
         <strong>নোটারি পাবলিকের সত্যায়ন (ATTESTATION BY NOTARY PUBLIC):</strong><br>
         Solemnly affirmed and declared before me by the deponent Md. Shakil Khan, who is identified by the learned Advocate, on this ........... day of ................................, 2026 at ..................................., Bangladesh.<br><br>
         ____________________________________________________<br>
@@ -625,16 +597,18 @@ li {
   <div class="footer-page-num">পৃষ্ঠা ৪ / ৫</div>
 </div>
 
-<!-- ================= PAGE 5: LAWYER'S MEMORANDUM & NEXT STEPS ================= -->
+<!-- ================= PAGE 5: LAWYER'S MEMORANDUM & ROADMAP ================= -->
 <div class="page-container">
 
-  <div class="header-top" style="border-bottom: 2px solid #1f3a52; padding-bottom: 4px; margin-bottom: 6px;">
-    <div class="gov-title" style="color: #1f3a52; font-size: 15px;">বাংলাদেশ সুপ্রিম কোর্টের বিজ্ঞ আইনজীবীর জন্য মেমোরেন্ডাম ও পরবর্তী অ্যাকশন প্ল্যান</div>
-    <div class="dept-sub" style="font-size: 11px;">হাইকোর্ট রিট পিটিশন (অনুচ্ছেদ ১০২) ও ক্ষতিপূরণ মামলা পরিচালনার রূপরেখা</div>
+  <div class="legal-header" style="border-bottom: 2px solid #1f3a52; padding-bottom: 4px; margin-bottom: 6px;">
+    <div class="legal-court-title" style="color: #1f3a52;">MEMORANDUM FOR LEARNED ADVOCATE, SUPREME COURT OF BANGLADESH</div>
+    <div class="legal-jurisdiction" style="font-size: 11px; font-weight: 700; color: #111111;">
+      হাইকোর্ট ডিভিশন রিট পিটিশন (অনুচ্ছেদ ১০২) ও ক্ষতিপূরণ মামলা পরিচালনার সংক্ষিপ্ত আইনি রূপরেখা
+    </div>
   </div>
 
   <div class="roadmap-card">
-    <h4>১. বর্তমান মামলার দৃঢ় ভিত্তি ও অবস্থান (৮০% কাজ সম্পন্ন):</h4>
+    <h4>১. মামলার বর্তমান অবস্থা ও অকাট্য ভিত্তি (৮০% কাজ প্রস্তুত):</h4>
     <p style="font-size: 11px; margin: 0;">
       তন্নীর চিকিৎসার ১৬৯টি মেডিকেল ডকুমেন্ট সম্পূর্ণ বিশ্লেষণ করে ডিজিটালাইজড করা হয়েছে। ক্লিনিকের ১০০% ফাঁকা প্রি-অ্যানেস্থেটিক শিট (IMG_9906), ওটিতে ফুসফুসে পানি জমার মেডিসিন চার্ট (IMG_9908), স্বাক্ষরহীন অসমাপ্ত অপারেশন নোট (IMG_9905), আইসিইউতে পাঠানোর ২ ঘণ্টার প্রাণঘাতী বিলম্ব (IMG_9890) এবং রামেক রেডিওলজি প্রধানের চূড়ান্ত প্রত্যয়ন (IMG_9994) আমাদের হাতে অকাট্য অস্ত্র। আদালতে চিকিৎসকের অবহেলা প্রমাণের জন্য মেডিকেল বোর্ডের কোনো দীর্ঘসূত্রিতার প্রয়োজন পড়বে না (<em>Doctrine of Res Ipsa Loquitur</em>)।
     </p>
